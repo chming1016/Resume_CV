@@ -1,9 +1,9 @@
 # Fdb version 3
-["xdvipdfmx"] 1562939955 "resume_cv.xdv" "resume_cv.pdf" "resume_cv" 1562939956
+["xdvipdfmx"] 1562939955 "resume_cv.xdv" "resume_cv.pdf" "resume_cv" 1562943223
   "resume_cv.xdv" 1562939955 43016 f8288994bb4af28da18a90c6a31446c2 "xelatex"
   (generated)
   "resume_cv.pdf"
-["xelatex"] 1562939954 "resume_cv.tex" "resume_cv.xdv" "resume_cv" 1562939956
+["xelatex"] 1562939954 "resume_cv.tex" "resume_cv.xdv" "resume_cv" 1562943223
   "/usr/local/texlive/2018/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1480098689 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm" 1480098701 1528 abec98dbc43e172678c11b3b9031252a ""
@@ -155,7 +155,7 @@
   "resume_cv.out" 1562939955 0 d41d8cd98f00b204e9800998ecf8427e ""
   "resume_cv.tex" 1562938606 3659 6155b50eb16c1bf87284c43696f6342d ""
   (generated)
-  "resume_cv.log"
+  "resume_cv.xdv"
   "resume_cv.out"
   "resume_cv.aux"
-  "resume_cv.xdv"
+  "resume_cv.log"

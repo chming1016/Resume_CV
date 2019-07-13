@@ -1,9 +1,9 @@
 # Fdb version 3
-["xdvipdfmx"] 1563029446 "resume_cv.xdv" "resume_cv.pdf" "resume_cv" 1563029446
-  "resume_cv.xdv" 1563029446 46308 41bd2378eaac7c3b5fd2aa3eda0038ff "xelatex"
+["xdvipdfmx"] 1563030719 "resume_cv.xdv" "resume_cv.pdf" "resume_cv" 1563030719
+  "resume_cv.xdv" 1563030719 46316 f2c909da618f4d2c76b8637b241c55c0 "xelatex"
   (generated)
   "resume_cv.pdf"
-["xelatex"] 1563029443 "resume_cv.tex" "resume_cv.xdv" "resume_cv" 1563029446
+["xelatex"] 1563030716 "resume_cv.tex" "resume_cv.xdv" "resume_cv" 1563030719
   "/usr/local/texlive/2018/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1480098689 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm" 1480098701 1528 abec98dbc43e172678c11b3b9031252a ""
@@ -146,16 +146,16 @@
   "/usr/local/texlive/2018/texmf-var/web2c/xetex/xelatex.fmt" 1528414525 3731928 d64a21b4176f987ccfd70143b4cafb71 ""
   "/usr/local/texlive/2018/texmf.cnf" 1523934483 577 0b39adfd7c93507ff20c9c14c2f1a33f ""
   "awesome-cv.cls" 1490623132 25526 469cab008fe7eab233ab45be71af56d6 ""
-  "cv-sections/education.tex" 1563027507 2081 2c425d690ceaaccca190d1ccf6849cdf ""
+  "cv-sections/education.tex" 1563030713 2082 e41ed5dab43e6dce1222b4da354382aa ""
   "cv-sections/experience.tex" 1563029441 3518 5a98efa892b8ef4ef1b05645c35041f6 ""
   "cv-sections/honors.tex" 1562950840 923 31ca8651c6411f5bab0f966f4b3c85bf ""
   "cv-sections/skills.tex" 1563004547 991 f236069a1d2cd829622512e87c5d9172 ""
   "fontawesome.sty" 1451489524 84047 355f16a7bd7ed1782c4e1f3a0b78b931 ""
-  "resume_cv.aux" 1563029446 665 82c456479ed516bc5a94b04c48282691 ""
-  "resume_cv.out" 1563029445 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "resume_cv.aux" 1563030719 665 82c456479ed516bc5a94b04c48282691 ""
+  "resume_cv.out" 1563030719 0 d41d8cd98f00b204e9800998ecf8427e ""
   "resume_cv.tex" 1563004064 3657 7f5bb004b40aa67245a3e98fd7a2d2df ""
   (generated)
+  "resume_cv.aux"
   "resume_cv.log"
   "resume_cv.xdv"
   "resume_cv.out"
-  "resume_cv.aux"

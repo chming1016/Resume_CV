@@ -1,9 +1,9 @@
 # Fdb version 3
-["xdvipdfmx"] 1563280338 "resume_cv.xdv" "resume_cv.pdf" "resume_cv" 1563280380
-  "resume_cv.xdv" 1563280338 46316 2a0098cb33a1df3d67c45a1106c5611d "xelatex"
+["xdvipdfmx"] 1565608012 "resume_cv.xdv" "resume_cv.pdf" "resume_cv" 1565608032
+  "resume_cv.xdv" 1565608012 46328 fc5ff986e8239c20414ca68e90ce798d "xelatex"
   (generated)
   "resume_cv.pdf"
-["xelatex"] 1563280335 "resume_cv.tex" "resume_cv.xdv" "resume_cv" 1563280380
+["xelatex"] 1565608009 "resume_cv.tex" "resume_cv.xdv" "resume_cv" 1565608032
   "/usr/local/texlive/2018/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1480098689 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm" 1480098701 1528 abec98dbc43e172678c11b3b9031252a ""
@@ -147,15 +147,15 @@
   "/usr/local/texlive/2018/texmf.cnf" 1523934483 577 0b39adfd7c93507ff20c9c14c2f1a33f ""
   "awesome-cv.cls" 1490623132 25526 469cab008fe7eab233ab45be71af56d6 ""
   "cv-sections/education.tex" 1563030713 2082 e41ed5dab43e6dce1222b4da354382aa ""
-  "cv-sections/experience.tex" 1563280332 3518 873f3034e0e93906ae219963a693c51d ""
+  "cv-sections/experience.tex" 1565587766 3517 dcb3ffa35b4b0b53d942619595ac8fb6 ""
   "cv-sections/honors.tex" 1562950840 923 31ca8651c6411f5bab0f966f4b3c85bf ""
   "cv-sections/skills.tex" 1563004547 991 f236069a1d2cd829622512e87c5d9172 ""
   "fontawesome.sty" 1451489524 84047 355f16a7bd7ed1782c4e1f3a0b78b931 ""
-  "resume_cv.aux" 1563280338 665 82c456479ed516bc5a94b04c48282691 ""
-  "resume_cv.out" 1563280338 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "resume_cv.aux" 1565608012 665 82c456479ed516bc5a94b04c48282691 ""
+  "resume_cv.out" 1565608011 0 d41d8cd98f00b204e9800998ecf8427e ""
   "resume_cv.tex" 1563004064 3657 7f5bb004b40aa67245a3e98fd7a2d2df ""
   (generated)
+  "resume_cv.xdv"
   "resume_cv.log"
   "resume_cv.out"
   "resume_cv.aux"
-  "resume_cv.xdv"
